@@ -32,8 +32,6 @@ Bom sms tools
 Gunakan dengan bijak ! 
 thx to SGB Team.                                                        
 \n";
-
-
 echo "[?]Nomer tujuan: 0";
 $no = trim(fgets(STDIN));
 echo "[?]Jumlah : ";
