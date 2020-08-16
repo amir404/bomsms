@@ -32,7 +32,7 @@ Bom sms tools
 Gunakan dengan bijak ! 
 thx to SGB Team.                                                        
 \n";
-echo "[?]Nomer tujuan: 0";
+echo "[?]Nomer tujuan: +";
 $no = trim(fgets(STDIN));
 echo "[?]Jumlah : ";
 $jmlh = trim(fgets(STDIN));
